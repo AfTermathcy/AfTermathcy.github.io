@@ -16,8 +16,7 @@ My research focuses on matching markets and mechanism design, studied from both 
 - Strategic behaviors and strategyproofness.
 
 More broadly, I am also interested in discrete optimization, algorithmic game theory, algorithmic complexity and online resource allocation.
-
-Before joining Columbia IEOR, I obtained my Bachelor's degree in Mathematics from Zhejiang University. 
+# Before joining Columbia IEOR, I obtained my Bachelor's degree in Mathematics from Zhejiang University. 
 
 
 
