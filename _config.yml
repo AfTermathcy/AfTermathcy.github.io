@@ -22,10 +22,10 @@ repository               : "AfTermathcy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Chengyue's Homepage"
+  avatar           : "profile_Chengyue.JPG"
+  name             : "Chengyue He (何呈栎)"
   pronouns         : "He/His"  
-  bio              : "5th year Ph.D. student at Columbia IEOR"
+  bio              : "Ph.D. student at Columbia IEOR"
   location         : "New York"
   employer         : # "Red Brick University"
   uri              : # URL
