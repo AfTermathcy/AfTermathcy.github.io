@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile_Chengyue.JPG"
   name             : "Chengyue He (何呈栎)"
-  pronouns         : "He/His"  
-  bio              : "Ph.D. student at Columbia IEOR"
+  pronouns         : # "He/His"  
+  bio              : "Ph.D. @ Columbia IEOR"
   location         : "New York"
   employer         : # "Red Brick University"
   uri              : # URL
