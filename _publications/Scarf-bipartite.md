@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Scarf-bipartite
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-05-15
+date: 2025-05
 venue: 'Mathematics of Operations Research'
 paperurl: 'https://doi.org/10.1287/moor.2023.0055'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
