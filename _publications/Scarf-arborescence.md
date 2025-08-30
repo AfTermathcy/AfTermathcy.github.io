@@ -3,7 +3,6 @@ title: "Scarf's Algorithm on Arborescence Hypergraphs"
 collection: publications
 category: manuscripts
 permalink: /publication/Scarf-arborescence
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-07
 venue: 'ICALP 2025'
 paperurl: 'https://arxiv.org/abs/2412.03397'
