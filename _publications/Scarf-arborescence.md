@@ -1,7 +1,7 @@
 ---
 title: "Scarf's Algorithm on Arborescence Hypergraphs"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/Scarf-arborescence
 date: 2025-07
 venue: 'ICALP 2025'
