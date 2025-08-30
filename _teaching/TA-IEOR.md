@@ -1,5 +1,6 @@
 ---
 title: "Teaching Assistant"
+date: 2025-05-15
 venue: "Columbia IEOR"
 ---
 
