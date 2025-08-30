@@ -23,6 +23,7 @@ Before joining Columbia IEOR, I obtained my Bachelor's degree in Mathematics fro
 
 Recent News
 ======
+- I will host a session at INFORMS Annual Meeting on October. See you in Atlanta!
 - I am currently on the academic job market.
 - July 2025: I am giving a talk at [ICALP 2025](https://conferences.au.dk/icalp2025) on our paper ["Scarf's Algorithm on Arborescence Hypergraphs"](https://arxiv.org/abs/2412.03397).
 - May 2025: Our paper ["Scarf's Algorithm and Stable Marriages"](https://doi.org/10.1287/moor.2023.0055) has been published on Mathematics of Operations Research.
