@@ -1,20 +1,7 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Teaching Assistant"
+venue: "Columbia IEOR"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+IEOR 3609 Advanced Optimization (Undergrad course) - Spring 2025
+IEOR 6613 Optimization I (PhD level course) - Fall 2024, Fall 2023
