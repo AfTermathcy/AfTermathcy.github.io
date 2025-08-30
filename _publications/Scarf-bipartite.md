@@ -1,7 +1,7 @@
 ---
 title: "Scarf's Algorithm and Stable Marriages"
 collection: publications
-category: manuscripts
+category: journals
 permalink: /publication/Scarf-bipartite
 date: 2025-05
 venue: 'Mathematics of Operations Research'
