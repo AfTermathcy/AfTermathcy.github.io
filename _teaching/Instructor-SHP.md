@@ -3,7 +3,7 @@ title: "Instructor"
 collection: teaching
 type: "Graph Theory by Example"
 permalink: /teaching/Instructor-SHP
-venue: "[Science Honors Program at Columbia Engineering](https://outreach.engineering.columbia.edu/SHP)"
+venue: "Science Honors Program at Columbia Engineering"
 date: 2021-09-01
 ---
 
