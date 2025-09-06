@@ -4,7 +4,6 @@ title: "Personal"
 author_profile: true
 ---
 
-{% include toc %}
 
 
 
