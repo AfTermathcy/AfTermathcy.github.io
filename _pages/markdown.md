@@ -12,10 +12,5 @@ author_profile: true
 * I sometimes play [poker](https://pokerdb.thehendonmob.com/player.php?a=r&n=1203343).
 
 
-## Contact
-
-Email: ch3480 at columbia dot edu
-
-
 
 
