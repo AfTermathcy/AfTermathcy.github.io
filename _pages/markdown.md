@@ -9,7 +9,7 @@ author_profile: true
 
 * My name is Chengyue He (何呈栎), pronounced “Chuhng-yweh Huh.” For convenience, you are very welcome to call my English name Hector.
 * I have three furry kids. [Here](https://www.instagram.com/amberbenbendoubao/) is their homepage.
-* I sometimes play [poker](https://pokerdb.thehendonmob.com/player.php?a=r&n=1203343).
+* I play poker. [Here](https://pokerdb.thehendonmob.com/player.php?a=r&n=1203343) is my live poker tournament records.
 
 
 
