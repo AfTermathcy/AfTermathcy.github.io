@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research Department](https://ieor.columbia.edu/) at Columbia University, where I am fortunate to be advised by Professor [Yuri Faenza](https://www.columbia.edu/~yf2414/) and Professor [Jay Sethuraman](https://www.columbia.edu/~js1353/). 
+Hi, welcome to my website! I am a fifth year Ph.D. student in the Department of [Industrial Engineering and Operations Research Department](https://ieor.columbia.edu/) at Columbia University, where I am fortunate to be advised by Professor [Yuri Faenza](https://www.columbia.edu/~yf2414/) and Professor [Jay Sethuraman](https://www.columbia.edu/~js1353/). 
 
 My research focuses on matching markets and mechanism design, studied from both theoretical and applied perspectives. In particular, I have worked on problems related to:
 - Stable matchings.
