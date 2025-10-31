@@ -23,9 +23,9 @@ Before joining Columbia IEOR, I obtained my Bachelor's degree in Mathematics fro
 
 Recent News
 ======
-- I will host a session "Optimization and Strategy Issue in Matching Markets" at INFORMS Annual Meeting on October 28. See you in Atlanta!
+- October 2025: I host a session "Optimization and Strategic Issue in Matching Markets" at INFORMS Annual Meeting at Atlanta.
 - September 2025: Our work ["Minimum Cut Representability of Stable Matching Problems"](https://arxiv.org/abs/2504.04577) has been awarded honorable mention in the INFORMS Optimization Society's 2025 Student Paper Prize!
-- July 2025: I am giving a talk at [ICALP 2025](https://conferences.au.dk/icalp2025) on our paper ["Scarf's Algorithm on Arborescence Hypergraphs"](https://arxiv.org/abs/2412.03397).
+- July 2025: I give a talk at [ICALP 2025](https://conferences.au.dk/icalp2025) on our paper ["Scarf's Algorithm on Arborescence Hypergraphs"](https://arxiv.org/abs/2412.03397).
 - May 2025: Our paper ["Scarf's Algorithm and Stable Marriages"](https://doi.org/10.1287/moor.2023.0055) has been accepted for publication on Mathematics of Operations Research.
 
 
