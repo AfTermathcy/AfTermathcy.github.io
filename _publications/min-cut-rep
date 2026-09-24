@@ -1,5 +1,7 @@
 ---
 title: "Minimum Cut Representability of Stable Matching Problems"
+publication_group: "Manuscripts"
+display_order: 1
 collection: publications
 category: manuscripts
 permalink: /publication/min-cut-rep
@@ -7,5 +9,11 @@ excerpt: 'Joint with Yuri Faenza and Ayoub Foussoul'
 date: 2025-04-05
 venue: Major Revision in Operations Research
 paperurl: 'https://arxiv.org/abs/2504.04577'
+is_published: false
+status: "Major revision in Operations Research"
+authors: ["Yuri Faenza", "Ayoub Foussoul", "Chengyue He"]
+preprint_label: "arXiv"
+preprint_url: "https://arxiv.org/abs/2504.04577"
+abstract: "We introduce and study Minimum Cut Representability, a framework to solve optimization and feasibility problems over stable matchings by representing them as minimum s-t cut problems on digraphs over rotations. We provide necessary and sufficient conditions on objective functions and feasibility sets for problems to be minimum cut representable. In particular, we define the concepts of first and second order differentials of a function over stable matchings and show that a problem is minimum cut representable if and only if, roughly speaking, the objective function can be expressed solely using these differentials, and the feasibility set is a sublattice of the stable matching lattice. To demonstrate the practical relevance of our framework, we study a range of real-world applications, including problems involving school choice with siblings and a two-stage stochastic stable matching problem. We show how our framework can be used to help solving these problems."
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: "Two-Stage Stochastic Stable Matching"
+publication_group: "Conference Proceedings"
+display_order: 2
 collection: publications
 category: conferences
 permalink: /publication/two-stage-sm
@@ -7,4 +9,10 @@ excerpt: 'Joint with Yuri Faenza and Ayoub Foussoul'
 date: 2024-01-26
 venue: 'IPCO'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-59835-7_12'
+is_published: true
+publication_year: 2024
+authors: ["Yuri Faenza", "Ayoub Foussoul", "Chengyue He"]
+preprint_label: "Open-access PDF"
+preprint_url: "https://par.nsf.gov/servlets/purl/10568571"
+abstract: "We introduce and study a two-stage stochastic stable matching problem between students and schools. A decision maker chooses a stable matching in a marriage instance; then, after some agents enter or leave the market following a probability distribution D, chooses a stable matching in the new instance. The goal is, roughly speaking, to maximize the expected quality of the matchings across the two stages and minimize the expected students’ discontent for being downgraded to a less preferred school in the second-stage. We consider both the case when D is given explicitly and when it is accessed via a sampling oracle. In the former case, we give a polynomial time algorithm. In the latter case, we show that, unless P = NP, no algorithm can find the optimal value or the optimal solution of the problem in polynomial-time. On the positive side, we give a pseudopolynomial algorithm that computes a solution of arbitrarily small additive error. Our techniques include the use of a newly defined poset of stable pairs, which may be of independent interest."
 ---

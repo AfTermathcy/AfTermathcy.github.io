@@ -1,11 +1,19 @@
 ---
 title: "Managing Self-Interested Behavior in Failure-Aware Kidney Exchange"
+publication_group: "Journal Articles"
+display_order: 2
 collection: publications
 category: manuscripts
 permalink: /publication/kidney-exchange
 excerpt: 'Joint with Itai Feigenbaum'
 date: 2025-07-29
-venue: Major Revision in Mathematics of Operations Research
+venue: Accepted for publication in Mathematics of Operations Research
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4796610'
+is_published: false
+status: "Accepted for publication in Mathematics of Operations Research"
+authors: ["Itai Feigenbaum", "Chengyue He"]
+preprint_label: "SSRN"
+preprint_url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4796610"
+abstract: "Patients requiring kidney transplant may have proxy donors, who wish to donate a kidney to the patient—but are incompatible. However, patients can swap their proxy donors for a compatible one. Transplants often get canceled, so planned swaps should maximize the expected number of non-canceled transplants. Exact maximization is neither strategyproof nor core-stable: patients can increase their probability of receiving a kidney via hiding proxy donors, or via side-arrangements. We introduce a group-strategyproof and core-stable mechanism called SuperGreedy. On uniform markets, where cancellation probabilities are equal across transplants, SuperGreedy is worst-case 2.03-approximate for realistically large cancellation probabilities, and empirically average-case 1.142-approximate in simulation. Our results extend beyond current practice, to when patients can swap multiple proxy donors, with weaker theoretical approximation guarantees but even stronger empirical performance. SuperGreedy is efficiently computable when restricted to size-2 cycles; without this restriction SuperGreedy is NP-hard, but still practically computable on uniform markets."
 ---
 
