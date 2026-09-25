@@ -86,12 +86,13 @@ html[data-theme="dark"] .columbia-name { color: #a8c9e0; }
 html[data-theme="dark"] .northwestern-name { color: #c6a7ef; }
 .academic-home #main { display: block; max-width: 1120px; margin: 0 auto; padding: 4rem 2rem 2rem; }
 .academic-home section[id] { scroll-margin-top: 6rem; }
-.home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 230px; column-gap: 4rem; align-items: start; }
+.home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 280px; column-gap: 4rem; align-items: start; }
 .eyebrow { color: var(--global-link-color); font-size: .78rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; margin: 0 0 .75rem; }
 .intro-copy h1 { font-family: Georgia, "Times New Roman", serif; font-size: clamp(2.8rem, 5vw, 4.1rem); font-weight: 400; letter-spacing: -.035em; line-height: 1.1; margin-bottom: 1.3rem; }
 .intro-copy p, .intro-copy li { font-size: 1rem; line-height: 1.75; }
 .intro-copy ul { padding-left: 1.1rem; }
-.intro-photo { display: block; width: 100%; height: auto; aspect-ratio: 9 / 10; object-fit: cover; object-position: 70% center; border-radius: 4px; }
+.portrait-frame { position: relative; width: 100%; aspect-ratio: 4 / 5; overflow: hidden; border-radius: 4px; }
+.intro-photo { position: absolute; display: block; width: 300%; max-width: none; height: auto; left: -107%; top: -7.5%; }
 .intro-profile { margin-top: .5rem; }
 .photo-caption { color: var(--global-text-color-light); font-size: 12px; line-height: 1.5; margin: .45rem 0 .9rem; }
 .profile-email { font-size: 13px; line-height: 1.6; margin: 0 0 1rem; overflow-wrap: anywhere; }
@@ -136,14 +137,14 @@ html[data-theme="dark"] .northwestern-name { color: #c6a7ef; }
 .personal-content p { margin-bottom: .8rem; }
 @media (max-width: 800px) {
   .academic-home #main { padding: 2.5rem 1.25rem 1rem; }
-  .home-intro { grid-template-columns: minmax(0, 1fr) 180px; gap: 1.75rem; }
+  .home-intro { grid-template-columns: minmax(0, 1fr) 210px; gap: 1.75rem; }
   .home-section { grid-template-columns: 1fr; gap: 1.5rem; padding: 2rem 0; }
   .home-section > h2 br { display: none; }
 }
 @media (max-width: 580px) {
   .home-intro { display: flex; flex-direction: column; gap: 1.4rem; }
   .intro-profile { order: -1; display: grid; grid-template-columns: 120px 1fr; gap: .4rem 1rem; margin: 0; width: 100%; }
-  .intro-photo { grid-column: 1; grid-row: 1; }
+  .portrait-frame { grid-column: 1; grid-row: 1; }
   .photo-caption { grid-column: 1; grid-row: 2; margin: 0; }
   .profile-email { grid-column: 1 / -1; grid-row: 3; margin: .25rem 0 0; }
   .profile-links { grid-column: 2; grid-row: 1 / 3; align-content: start; }

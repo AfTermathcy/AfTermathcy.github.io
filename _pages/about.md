@@ -22,7 +22,7 @@ During my Ph.D., my research focused on **discrete optimization, matching market
 
 </div>
 <aside class="intro-profile" aria-label="Photo and contact links">
-  <img class="intro-photo" src="{{ base_path }}/images/{{ site.author.avatar }}" alt="Chengyue He" fetchpriority="high">
+  <div class="portrait-frame"><img class="intro-photo" src="{{ base_path }}/images/{{ site.author.avatar }}" alt="Chengyue He holding a camera at Glacier National Park" fetchpriority="high"></div>
   <p class="photo-caption">@ Glacier National Park, MT</p>
   <p class="profile-email">chengyue [dot] he [at] northwestern [dot] edu</p>
   <div class="profile-links">
